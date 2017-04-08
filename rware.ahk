@@ -50,7 +50,7 @@ accessing their files or even
 computers. They force victims to pay
 ransom, usually in the form of 
 Bitcoins, before they can get access
-back, hence the name. It a huge 
+back, hence the name. It's a huge 
 threat to our oranization, and must
 be taken seriously.
 )
