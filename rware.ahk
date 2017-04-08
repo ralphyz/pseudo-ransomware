@@ -37,7 +37,7 @@ WinSet, TransColor, EEAA99
 
 ; get the image
 url = https://github.com/ralphyz/red/raw/master/shield2.png
-file = %A_Temp%\shielda.png
+file = %A_Temp%\shield.png
 proxy = 
 
 ; If the file doesn't exist, Download it
@@ -83,7 +83,7 @@ IfNotExist, %file%
 ; Try one last time with a proxy
 IfNotExist, %file%
 {
-   ; set default gui color
+   ; set default gui color to red
    Gui, Color, A60004
 }
     
@@ -114,10 +114,10 @@ that prevents or limits users from
 accessing their files or even 
 computers. It forces victims to pay
 a ransom, usually in the form of 
-Bitcoins, before they can get access  
+Bitcoins, before they can get access  _  
 back, hence the name. It's a huge 
 threat to our oranization, and must
-be taken seriously.                1/2
+be taken seriously.                
 )
 
 message2 =
@@ -130,14 +130,14 @@ any ransom. If a computer is infected,
 the only course of action may be to 
 have it reimaged. Proper web hygiene
 and not falling for Phishing Scams 
-are only way to remain safe!       2/2
+are only way to remain safe!     
 )
 
 ; add the text on the shield (countdown timer)
 Gui, Add, Text, BackgroundTrans x40 y175 vMessage, % message1
 
 ; add the next button
-Gui, Add, Button, gNextClick x500 y500, >>
+Gui, Add, Button, gNextClick x500 y500 072736, >>
 
 ; show the gui
 Gui, Show, w1050 h700, Red Team
