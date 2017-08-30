@@ -20,13 +20,13 @@ my_SweatLimit := 1
 my_release_key = {F12}
 
 ; Try and use a proxy after trying without?
-bUseProxy := true
+bUseProxy := false
 
 ; Move the mouse to draw the user's eye?
 bMoveMouse := false
 
 ; The Proxy Information
-; my_proxy = 
+my_proxy = 
 
 ; the two messages that are displayed.
 ; 38 characters max (with the default wallpaper)
