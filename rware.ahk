@@ -26,7 +26,7 @@ bUseProxy := true
 bMoveMouse := false
 
 ; The Proxy Information
-my_proxy = 142.16.176.34:9400
+; my_proxy = 
 
 ; the two messages that are displayed.
 ; 38 characters max (with the default wallpaper)
