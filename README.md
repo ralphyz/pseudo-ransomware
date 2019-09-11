@@ -1,5 +1,5 @@
 # pseudo-ransomware
-Emulates a ransomeware program using AutoHotKey.  This script has a countdown timer which releases the mouse and keyboard when it completes.  Press {F12} anytime to terminate the script.  All settings are configurable, including the background download.  
+Emulates a ransomware program using AutoHotKey.  This script has a countdown timer which releases the mouse and keyboard when it completes.  Press {F12} anytime to terminate the script.  All settings are configurable, including the background download.  
 
 ## User defined parameters
 ```
