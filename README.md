@@ -41,7 +41,7 @@ message2 =
 Paying a ransom does not guarantee
 the decryption of data, nor does it
 prevent the exfiltration of data. 
-P&G's policy prohibits the payment of
+our policy prohibits the payment of
 any ransom. If a computer is infected,
 the only course of action may be to 
 have it reimaged. Proper web hygiene
