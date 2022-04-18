@@ -39,7 +39,7 @@ computers. It forces victims to pay
 a ransom, usually in the form of 
 Bitcoins, before they can get access
 back, hence the name. It's a huge 
-threat to our oranization, and must
+threat to our organization and must
 be taken seriously.                     
 )
 
